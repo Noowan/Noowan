@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Noowan
-- 👀 I’m interested in C#, Networking, Blazor, Entity Framework, LINQ, Docker, Zabbix, Python, Postgresql
+  - 👀 I’m interested in Networking, Docker, Zabbix, Python, RDBMS
 - 👀 I have CCNA, HCNA, HCIP certificates
 - 🌱 I’m currently learning python and network automatization
-
